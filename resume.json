@@ -5,7 +5,7 @@
 		"picture": "https://avatars.githubusercontent.com/u/78271872?s=400&u=2e5b0d6dda26547ea1dbd46b564aef846d0f2314&v=4",
 		"email": "2020kucp1031@iiitkota.ac.in",
 		"phone": "7976073956",
-		"summary": "Hello, I am Anuj Nandwana aspiring software developer.I am pursuing my b - tech from Indian Institute of Information Technology,Kota.",
+		"summary": "Hello, I am Anuj Nandwana aspiring software developer.I am pursuing my b-tech from Indian Institute of Information Technology,Kota.",
 		"location": {
 			"address": "Plot no 8 RaghuVihar, Mansarovar Jaipur",
 			"postalCode": "302020",
@@ -45,7 +45,7 @@
 
 	"skills": [{
 		"level": "Intermediate",
-		"keywords": ["HTML", "CSS", "Javascript", "Php", "C/C++", "Bootstrap"]
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Bootstrap"]
 	}],
 	"interests": [{
 		"name": "Sports",
